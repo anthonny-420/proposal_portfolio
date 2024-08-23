@@ -1,2 +1,1 @@
-# proposal_portfolio
-Here I'll upload a few files that could be added to another directory
+you'll can see all of my advances as a programmer
